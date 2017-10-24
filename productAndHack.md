@@ -1,16 +1,4 @@
----
-title: 产品设计 & 增长黑客
-date: 2017-10-24 20:49:28
-categories:
-    - 杂记
-tags:
-    - 产品
-    - 认知
-abbrlink: 6ce517048ea15374
-password: test1101
-abstract: Welcome to my blog, enter password to read.
-message: Welcome to my blog, enter password to read.
----
+
 2017.10.21参加了大胡子老师的课程，
 叫《变现的套路：产品设计&增长黑客》，
 以下是课程内容的整理以及个人感受。
