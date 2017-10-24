@@ -293,8 +293,8 @@ word是个技能，写作是能力。
 
 # 4. 参考
 
-* [](http://mp.weixin.qq.com/s/RPjCUXqzWOsNVLItSrlFyw)
-* [](http://mp.weixin.qq.com/s/BWTDnMsZ0b-6leYPnT0YFQ)
+* [消费升级](http://mp.weixin.qq.com/s/RPjCUXqzWOsNVLItSrlFyw)
+* [如何提高商业嗅觉](http://mp.weixin.qq.com/s/BWTDnMsZ0b-6leYPnT0YFQ)
 * [大胡子 | 跨界.认知.疯人院 | 精彩视频 2017.03](http://m.sohu.com/a/131241866_609518?from=singlemessage&isappinstalled=0)
 * [变现的套路：产品设计&增长黑客 2017.06](http://www.itdks.com/dakalive/detail/2506)
 * [互联网产品如何抓住“人性”指导设计](http://www.woshipm.com/pd/315814.html)
